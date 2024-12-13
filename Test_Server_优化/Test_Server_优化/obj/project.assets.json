@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Csharp\\Test_Server_优化\\Test_Server_优化\\Test_Server_优化.csproj",
+      "projectUniqueName": "E:\\UniytProject\\__Git\\Network_TCP\\Test_Server_优化\\Test_Server_优化\\Test_Server_优化.csproj",
       "projectName": "Test_Server_优化",
-      "projectPath": "E:\\Csharp\\Test_Server_优化\\Test_Server_优化\\Test_Server_优化.csproj",
+      "projectPath": "E:\\UniytProject\\__Git\\Network_TCP\\Test_Server_优化\\Test_Server_优化\\Test_Server_优化.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "E:\\Csharp\\Test_Server_优化\\Test_Server_优化\\obj\\",
+      "outputPath": "E:\\UniytProject\\__Git\\Network_TCP\\Test_Server_优化\\Test_Server_优化\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
